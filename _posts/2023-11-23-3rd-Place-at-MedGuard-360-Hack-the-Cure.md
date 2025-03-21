@@ -47,7 +47,7 @@ We designed a robust and secure network architecture to ensure seamless communic
 ## Team Picture
 Here’s a snapshot of our amazing team in action during the hackathon:
 
-![Team Picture](https://ishamzaoui.github.io/images/competitions/MedGuard/img2.jpg)  
+![Team Picture](https://ishamzaoui.github.io/images/competitions/MedGuard/img1.jpg)  
 *From right to left : Wael Rdifi, Ahmed Rayen Ayari, Wiem, Ale Naoui, and me!*
 
 ---
