@@ -5,7 +5,7 @@ order: 4
 ---
 
 <div style="text-align: center;">
-  <img src="https://imhamzaoui.github.io/images/banner.jpg" alt="Securinets" style="width: 80%; height: auto; max-width: 100%;" />
+  <img src="https://ishamzaoui.github.io/images/banner.jpg" alt="Securinets" style="width: 80%; height: auto; max-width: 100%;" />
 </div>
 # WHOAMI!
 
@@ -24,7 +24,7 @@ Beyond cybersecurity, I am skilled in **software development** and **hardware-re
 As an active member of **Securinets TekUp**, I design CTF challenges and organize cybersecurity workshops to inspire others in the field.  
 
 <div style="text-align: center; width: 100%;">
-  <img src="https://imhamzaoui.github.io/images/securinets.jpg" alt="TryHackMe Badge" style="width: auto; height: 240px; margin-right: 10%;" />
+  <img src="https://ishamzaoui.github.io/images/securinets.jpg" alt="TryHackMe Badge" style="width: auto; height: 240px; margin-right: 10%;" />
 </div>
 
 ---
