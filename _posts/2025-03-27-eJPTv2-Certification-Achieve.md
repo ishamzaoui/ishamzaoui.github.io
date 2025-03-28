@@ -2,7 +2,7 @@
 layout: post
 title: "eJPTv2 Certification Achieved!"
 date: 2025-03-27 12:00:00 +0000
-categories: certifications cybersecurity
+categories: certifications ejptv2
 tags: [eJPTv2, INE, penetration testing, cybersecurity]
 image: /images/certif/ejptv2.jpg
 ---
