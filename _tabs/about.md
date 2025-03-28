@@ -4,7 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-
+<div style="text-align: center;">
+  <img src="https://ishamzaoui.github.io/images/banner.jpg" alt="Securinets" style="width: 80%; height: auto; max-width: 100%;" />
+</div>
 # WHOAMI!
 
 # I’m Hamzaoui Mohamed
@@ -14,10 +16,6 @@ A dedicated and results-driven **Technology Student** at **TEK-UP University** w
 I am deeply passionate about cybersecurity, with demonstrated expertise in competitive **Capture the Flag (CTF)** challenges, where I’ve honed my problem-solving skills and technical proficiency in real-world scenarios. My interests span **penetration testing**, **security analysis**, and **digital forensics**, and I thrive on tackling challenges in domains like **OSINT**, **cryptography**, and **web security**.  
 
 Beyond cybersecurity, I am skilled in **software development** and **hardware-related projects**, with hands-on experience in designing, developing, and deploying scalable applications and hardware solutions. As an active **Technical Team Member** at the **TEK-UP Security Club**, I contribute to innovative projects and foster a culture of security awareness within the community. In my role, I specialize in the **hardware category**, where I create and design hardware-related tasks and challenges, further expanding my expertise in embedded systems and hardware security.   
-
-<div style="text-align: center;">
-  <img src="https://ishamzaoui.github.io/images/banner.jpg" alt="Securinets" style="width: 80%; height: auto; max-width: 100%;" />
-</div>
 
 ---
 
