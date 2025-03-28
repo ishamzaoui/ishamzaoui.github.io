@@ -4,9 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<div style="text-align: center;">
-  <img src="https://ishamzaoui.github.io/images/banner.jpg" alt="Securinets" style="width: 80%; height: auto; max-width: 100%;" />
-</div>
+
 # WHOAMI!
 
 # I’m Hamzaoui Mohamed
@@ -17,6 +15,10 @@ I am deeply passionate about cybersecurity, with demonstrated expertise in compe
 
 Beyond cybersecurity, I am skilled in **software development** and **hardware-related projects**, with hands-on experience in designing, developing, and deploying scalable applications and hardware solutions. As an active **Technical Team Member** at the **TEK-UP Security Club**, I contribute to innovative projects and foster a culture of security awareness within the community. In my role, I specialize in the **hardware category**, where I create and design hardware-related tasks and challenges, further expanding my expertise in embedded systems and hardware security.   
 
+<div style="text-align: center;">
+  <img src="https://ishamzaoui.github.io/images/banner.jpg" alt="Securinets" style="width: 80%; height: auto; max-width: 100%;" />
+</div>
+
 ---
 
 ## Community Involvement
@@ -24,11 +26,11 @@ Beyond cybersecurity, I am skilled in **software development** and **hardware-re
 As an active member of **Securinets TekUp**, I design CTF challenges and organize cybersecurity workshops to inspire others in the field.  
 
 <div style="text-align: center; width: 100%;">
-  <img src="https://ismhamzaoui.github.io/images/securinets.jpg" alt="TryHackMe Badge" style="width: auto; height: 240px; margin-right: 10%;" />
+  <img src="https://ishamzaoui.github.io/images/securinets.jpg" alt="TryHackMe Badge" style="width: auto; height: 240px; margin-right: 10%;" />
 </div>
 
 ---
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hamzaoui-mohamed/), explore my projects on [GitHub](https://github.com/imhamzaoui), or email me at [muhmd.hmzaoui@gmail.com](mailto:muhmd.hmzaoui@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hamzaoui-mohamed/), explore my projects on [GitHub](https://github.com/ishamzaoui), or email me at [muhmd.hmzaoui@gmail.com](mailto:muhmd.hmzaoui@gmail.com).
