@@ -7,7 +7,7 @@ tags: [AI, Blockchain, GDPR, Hybrid Cloud, React, FastAPI, Okta, AWS, OpenStack]
 ---
 
 ## Overview
-During the **0x4FUN Hackathon (May 2025)**, our team developed **SYRESS Dashboard**, an AI-powered platform for secure enterprise resource management. The project integrates **AI/ML models, blockchain storage, and hybrid cloud deployment** to ensure data integrity, automation, and GDPR compliance. Below are the key components and outcomes.
+During the **HACK'N'BIZ Hackathon (May 2025)**, our team **0x4Fun** developed **SYRESS**, an AI-powered platform for secure enterprise resource management. The project integrates **AI/ML models, blockchain storage, and hybrid cloud deployment** to ensure data integrity, automation, and GDPR compliance. Below are the key components and outcomes.
 
 ![Hackathon Participation Certificate](/images/competitions/syress/hacknbiz.jpg)  
 *Certificate of Participation*
