@@ -94,7 +94,7 @@ SYRESS demonstrates how **AI, blockchain, and hybrid cloud** can solve enterpris
 *Hackathon Winners (Security Track)*  
 
 ### Project Documentation
-1. [Hackathon Certificate](/images/competitions/syress/hacknbiz.pdf)  
+1. [Hackathon Certificate](/images/competitions/syress/hacknbiz.jpg)  
 2. [SYRESS Technical Report](/images/competitions/syress/technical_report.pdf)  
 3. [SYRESS Project Brief](/images/competitions/syress/SyRess.pdf)  
 4. [SYRESS Detailed Documentation](/images/competitions/syress/SyRess_doc.pdf)  
