@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Hackathon Project: SYRESS Dashboard – AI-Powered Secure Resource Management"
-date: 2025-05-29 12:00:00 +0000
-categories: projects hackathon
+date: 2025-05-10 12:00:00 +0000
+categories: hackathon hacknbiz
 tags: [AI, Blockchain, GDPR, Hybrid Cloud, React, FastAPI, Okta, AWS, OpenStack]
 ---
 
