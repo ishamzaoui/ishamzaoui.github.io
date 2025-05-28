@@ -9,7 +9,7 @@ tags: [AI, Blockchain, GDPR, Hybrid Cloud, React, FastAPI, Okta, AWS, OpenStack]
 ## Overview
 During the **0x4FUN Hackathon (May 2025)**, our team developed **SYRESS Dashboard**, an AI-powered platform for secure enterprise resource management. The project integrates **AI/ML models, blockchain storage, and hybrid cloud deployment** to ensure data integrity, automation, and GDPR compliance. Below are the key components and outcomes.
 
-![Hackathon Participation Certificate](/images/projects/syress/certificate.jpg)  
+![Hackathon Participation Certificate](/images/competitions/syress/hacknbiz.pdf)  
 *Certificate of Participation*
 
 ---
@@ -18,7 +18,7 @@ During the **0x4FUN Hackathon (May 2025)**, our team developed **SYRESS Dashboar
 SYRESS is built as a multi-layered system with the following components:
 
 ### Architecture Diagram
-![SYRESS Architecture Diagram](/images/projects/syress/architecture_diagram.png)  
+![SYRESS Architecture Diagram](/images/competitions/syress/architecture_diagram.png)  
 *Figure 1: High-level architecture of SYRESS Dashboard*
 
 ### Key Layers
@@ -92,4 +92,9 @@ SYRESS demonstrates how **AI, blockchain, and hybrid cloud** can solve enterpris
 
 **Team 0x4FUN**  
 *Hackathon Winners (Security Track)*  
-[Download Full Report (PDF)](/images/certif/hacknbiz.pdf)
+
+### Project Documentation
+1. [Hackathon Certificate](/images/competitions/syress/hacknbiz.pdf)  
+2. [SYRESS Technical Report](/images/competitions/syress/technical_report.pdf)  
+3. [SYRESS Project Brief](/images/competitions/syress/SyRess.pdf)  
+4. [SYRESS Detailed Documentation](/images/competitions/syress/SyRess_doc.pdf)  
