@@ -15,12 +15,12 @@ I scored **813/1000** on my **first attempt**, and completed the exam—includin
 The PT1 certification is a **fully hands-on**, **industry-designed**, **48-hour** practical assessment across three domains:  
 - **Web Application Testing (40%)**  
 - **Network Penetration Testing (36%)**  
-- **Active Directory Exploitation (24%)** :contentReference[oaicite:1]{index=1}  
+- **Active Directory Exploitation (24%)** 
 
-Importantly, the exam requires you to submit a **written HTML‑style report** via the exam platform, with clear documentation, CVSS scoring, remediation recommendations, and business context—graded automatically using AI tools :contentReference[oaicite:2]{index=2}.
+Importantly, the exam requires you to submit a **written HTML‑style report** via the exam platform, with clear documentation, CVSS scoring, remediation recommendations, and business context—graded automatically using AI tools
 
 ## Why PT1?  
-This certification stood out for simulating a real-world penetration testing engagement from start to finish—discovering vulnerabilities, exploiting systems, moving laterally across the environment, and crafting a professional report. It covers every critical phase of a pentest, from enumeration to post-exploitation and documentation :contentReference[oaicite:3]{index=3}.
+This certification stood out for simulating a real-world penetration testing engagement from start to finish—discovering vulnerabilities, exploiting systems, moving laterally across the environment, and crafting a professional report. It covers every critical phase of a pentest, from enumeration to post-exploitation and documentation,
 
 ## Key Skills Demonstrated  
 - **Reconnaissance & Enumeration**  
@@ -28,7 +28,7 @@ This certification stood out for simulating a real-world penetration testing eng
 - **Network Pentesting** and lateral movement (SMB, FTP, RDP, brute-forcing, pivoting)  
 - **Active Directory Attacks** (Kerberoasting, AS‑REP roasting, Pass‑the‑Hash/Ticket, LDAP abuse)  
 - **Privilege Escalation** on Linux/Windows targets  
-- **Professional Reporting**: clear write-up with CVSS scoring, risk prioritization, and actionable remediation :contentReference[oaicite:4]{index=4}
+- **Professional Reporting**: clear write-up with CVSS scoring, risk prioritization, and actionable remediation.
 
 ## Challenges & Highlights  
 The real challenge was time management—balancing thorough testing in all three domains and structuring a comprehensive report under a 48-hour deadline. Completing everything in less than half the timeframe was demanding but highly rewarding. The AI‑graded write-up system also pushed me to be precise and clear in documentation.
