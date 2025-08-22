@@ -31,4 +31,4 @@ As an active member of **Securinets TekUp**, I design CTF challenges and organiz
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hamzaoui-mohamed/), explore my projects on [GitHub](https://github.com/ishamzaoui), or email me at [muhmd.hmzaoui@gmail.com](mailto:muhmd.hmzaoui@gmail.com).
+Feel free to connect with me +216 96990952 [LinkedIn](https://www.linkedin.com/in/hamzaoui-mohamed/), explore my projects on [GitHub](https://github.com/ishamzaoui), or email me at [muhmd.hmzaoui@gmail.com](mailto:muhmd.hmzaoui@gmail.com).
