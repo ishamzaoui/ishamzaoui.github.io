@@ -4,7 +4,7 @@ title: "eMAPTv3 Certification Achieved!"
 date: 2025-08-23 12:00:00 +0000
 categories: certifications eMAPT
 tags: [eMAPT, INE, mobile penetration testing, Android security, iOS security, cybersecurity]
-image: /images/certif/eMAPT.png
+image: /images/certif/eMAPT.jpg
 ---
 
 ## Overview  
