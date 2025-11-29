@@ -51,6 +51,3 @@ This certification pushed me to think like an attacker, adapt quickly, and rely 
 ## Conclusion  
 Earning the **CRTA** certification has been a powerful learning experience and has significantly strengthened my red teaming capabilities.  
 It deepened my understanding of Active Directory exploitation, adversary simulation, and stealth techniques used in modern cyber attacks.
-
-If you're aiming to advance your offensive security skills and work in realistic enterprise environments, the CRTA is an excellent certification to pursue!
-
