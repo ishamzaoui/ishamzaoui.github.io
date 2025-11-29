@@ -49,7 +49,7 @@ ENTER
 
 ### 4. Engine Code Source (github project soon)
 
-```engine.py
+```python
 import digitalio, storage, board, time, usb_hid
 from adafruit_hid.keyboard import Keyboard
 from adafruit_hid.keycode import Keycode
